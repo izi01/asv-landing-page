@@ -5,7 +5,7 @@ import * as React from 'react'
 const IndexPage2 = (props: any) => {
   return (
     <GlobalLayout {...props}>
-      <Introduction name='Andreas Stephan Voit' />
+      <Introduction name='Andreas S. Voit' />
     </GlobalLayout>
   )
 }
