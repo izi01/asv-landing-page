@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{aN37:function(e,n,t){"use strict";t.r(n);var a=t("+ego"),o=t("0CuB"),r=t("q1tI");n.default=function(e){return r.createElement(a.a,e,r.createElement(o.a,{name:"Andreas S. Voit"}))}}}]);
-//# sourceMappingURL=component---src-pages-index-2-tsx-770d5e5ac0a8f2fa0487.js.map

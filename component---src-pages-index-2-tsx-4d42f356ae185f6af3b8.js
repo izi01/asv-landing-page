@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkasv_landing_page=self.webpackChunkasv_landing_page||[]).push([[589],{7044:function(e,n,a){a.r(n);var t=a(8045),r=a(3862),s=a(7294);n.default=function(e){return s.createElement(t.C,e,s.createElement(r.Z,{name:"Andreas S. Voit"}))}}}]);
+//# sourceMappingURL=component---src-pages-index-2-tsx-4d42f356ae185f6af3b8.js.map

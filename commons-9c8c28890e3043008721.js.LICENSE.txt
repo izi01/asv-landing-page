@@ -3,3 +3,5 @@
   Licensed under the MIT License (MIT), see
   http://jedwatson.github.io/classnames
 */
+
+/*! nouislider - 12.1.0 - 10/25/2018 */
