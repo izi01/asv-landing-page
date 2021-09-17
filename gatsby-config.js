@@ -13,13 +13,6 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
-      resolve: 'gatsby-plugin-generate-types',
-      options: {
-        inProduction: true
-      }
-    },
-
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Personal Website`,
